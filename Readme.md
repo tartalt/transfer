@@ -19,7 +19,7 @@ To install the dependencies, you can run the following command in your terminal:
 
 Download or clone this repository to your local machine.
 
-Open the Python file transfer_photos.py.
+Open the Python file Transfer.py.
 
 Update the source and destination folder paths to match your own directory structure.
 
