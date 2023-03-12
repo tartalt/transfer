@@ -32,7 +32,7 @@ Run the script.
 The script will copy photos from the source folder to the destination folder based on the values in the designated column of the Excel file.
 
 
-###**📝 Notes**
+### **📝 Notes**
 
 The script only works for photos with a specific value in the designated column. You can modify the value in the script to match your own criteria.
 
